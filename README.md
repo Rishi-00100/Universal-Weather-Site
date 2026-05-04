@@ -16,8 +16,8 @@ A real-time weather application built with **HTML, CSS & JavaScript** that fetch
 
 ## 📸 Preview
 
-<!-- ![Weather App Preview] <img width="1919" height="523" alt="Screenshot 2026-05-04 225551" src="https://github.com/user-attachments/assets/bb8eeccc-52fb-4157-a810-4683ef767947" />
--->
+<!-- ![Weather App Preview]-->
+<img width="1919" height="523" alt="Screenshot 2026-05-04 225551" src="https://github.com/user-attachments/assets/b632482d-3f65-4499-bb6c-87716c0625f5" />
 
 ---
 
@@ -150,13 +150,6 @@ This project uses the **WeatherAPI** free tier.
 - Working with **template literals** for dynamic URL building
 - Handling **date and time** formatting in JavaScript
 
----
-
-## 👨‍💻 Author
-
-**Udbhav Singh**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 ---
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
