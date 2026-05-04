@@ -10,7 +10,7 @@ A real-time weather application built with **HTML, CSS & JavaScript** that fetch
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](#) <!-- https://universalweathersite.vercel.app -->
+👉 [View Live Project](#) https://universalweathersite.vercel.app
 
 ---
 
